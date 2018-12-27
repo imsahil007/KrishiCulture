@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="brand">
+        <item>Mahindra</item>
+        <item>Tata</item>
+        <item>Marutixyz</item>
+        <item>Some other shitty brand</item>
+    </string-array>
+
+    <string-array name="duration">
+        <item>1 day</item>
+        <item>2 day</item>
+        <item>3 day</item>
+        <item>4 day</item>
+        <item>5 day</item>
+        <item>6 day</item>
+        <item>7 day</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Location A</item>
+        <item>Location B</item>
+        <item>Location C</item>
+        <item>Location D</item>
+        <item>Location E</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>Machinery</item>
+        <item>Non Machinery</item>
+        <item>Mechanical</item>
+        <item>Non Mechanical</item>
+    </string-array>
+    <string-array name="bank">
+        <item>PNB</item>
+        <item>SBI</item>
+        <item>RBI lolz</item>
+        <item>Vijaya Bank</item>
+    </string-array>
+
+</resources>

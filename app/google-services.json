@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733540847335",
+    "firebase_url": "https://krishiculture-7ac1c.firebaseio.com",
+    "project_id": "krishiculture-7ac1c",
+    "storage_bucket": "krishiculture-7ac1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733540847335:android:41e2aa76b133a3dd",
+        "android_client_info": {
+          "package_name": "com.humandroid.team.krishiculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733540847335-b0uusftjjghvnvljc0u8ielth05s87mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humandroid.team.krishiculture",
+            "certificate_hash": "678fd45ac284f5986cd28e8e04197422b5ea4c19"
+          }
+        },
+        {
+          "client_id": "733540847335-l518u074jt14ovohfu3oms9nlakkvu51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnUVtVP_975im8atJuCEDpJ9Z3BAtrF8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733540847335-l518u074jt14ovohfu3oms9nlakkvu51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

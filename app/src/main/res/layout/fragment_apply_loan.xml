@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ApplyLoan">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       android:orientation="vertical">
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_margin="5sp"
+            android:id="@+id/bank_spinner"
+            android:entries="@array/bank"
+            android:drawSelectorOnTop="true"
+            android:spinnerMode="dialog"
+            android:gravity="center">
+        </Spinner>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/aadhar"
+            android:hint=""/>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
