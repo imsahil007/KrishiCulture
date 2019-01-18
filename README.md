@@ -16,9 +16,7 @@ A mobile application that the farmers can use to hire tractors as well as other 
     >  Note: This will be only implemented at the final phase of the project as payment gateway requires a lot of documents and some fees which will be paid by the organization itself. So, we won't add this feature right now. 
 
 ## Screenshots:
-![Login Screen](images/Login.png)
-![Signup Screen](images/SignUP.png)
-![Nav Bar Screen](images/NavBar.png)
+![Login Screen](images/Login.png)             ![Signup Screen](images/SignUp.png)          ![Nav Bar Screen](images/NavBar.png)
 
 
 ## Technology Stack:
