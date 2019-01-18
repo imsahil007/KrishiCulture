@@ -24,6 +24,8 @@ A mobile application that the farmers can use to hire tractors as well as other 
 **For  Admin Panel:**
 >Serverless React JS
 
+![](images/1.JPG)
+
 ## Assumptions:
 - Farmer is registered and verified.
 - User knows how to operate basic features of mobile phone.
@@ -37,10 +39,9 @@ Mindtree delivers digital transformation and technology services from ideation t
 
 
 ### Support:
-
-@github/imsahil007
-@github/abhi12299
-What do you think about this?
+What do you think about this?Contact:
+- [Sahil](https://www.github.com/imsahil007)
+- [Abhishek](https://www.github.com/abhi12299)
 
 
 ### Todos
