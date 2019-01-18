@@ -15,11 +15,17 @@ A mobile application that the farmers can use to hire tractors as well as other 
 -	By registering with a payment gateway (to be done by app administrator), the user will be able to pay via the app for the rental. The user will also receive messages for the payment transactions by payment gateway. 
     >  Note: This will be only implemented at the final phase of the project as payment gateway requires a lot of documents and some fees which will be paid by the organization itself. So, we won't add this feature right now. 
 
+## Screenshots:
+![Login Screen](images/Login.png)
+![Signup Screen](images/SignUP.png)
+![Nav Bar Screen](images/NavBar.png)
+
+
 ## Technology Stack:
 *The entire project is divided into 2 applications. One is the main android app for the users to access the data and features that the project has to offer. Second is the admin panel that allows an administrator to deal with loan applications and forward them, update application status etc.*
 **For  App:**
 >Android with Java
-    Backend as Service - Firebase
+>Backend as Service - Firebase
     
 **For  Admin Panel:**
 >Serverless React JS
