@@ -1,6 +1,6 @@
 # Krishi Culture
 
-A mobile application that the farmers can use to hire tractors as well as other mechanizations at a nominal amount all using their mobile phones . This would not only help them avoid manual labor but can be also be considered as an important step to encourage this profession.
+A mobile application that farmers can use to hire tractors as well as other mechanizations at a nominal amount all using their mobile phones. This would not only help them avoid manual labor but can be also be considered as an important step to encourage this profession.
 
 ##  Features
 - A one-click simple application to rent farming equipment.
